@@ -5,6 +5,8 @@ This data analytics project involved creating an interactive executive dashboard
 
 The dashboard provides comprehensive insights into key business metrics, facilitating data-driven decision-making.
 
+[Click here to view Tableau Public Profile Project Link Showcasing interactive Dashboard](https://public.tableau.com/views/BikeStoresDashboard_17274453353860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Dashboard view in Tableau Public:
 
 ![BikeStores Dashboard image](https://github.com/user-attachments/assets/091f03c7-bd8f-4be0-8a96-ab1392ec1e77)
