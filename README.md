@@ -5,6 +5,15 @@ This data analytics project involved creating an interactive executive dashboard
 
 The dashboard provides comprehensive insights into key business metrics, facilitating data-driven decision-making.
 
+## Dashboard view in Tableau Public:
+
+![BikeStores Dashboard image](https://github.com/user-attachments/assets/091f03c7-bd8f-4be0-8a96-ab1392ec1e77)
+
+## Executive Dashboard in MS Excel:
+
+![BikeStores Excel Dashboard](https://github.com/user-attachments/assets/157ce0d5-0918-4ba2-9f1a-6efe5f80d05b)
+
+
 ### Key features of the dashboard include:
 
 #### Revenue Metrics: Visualizations showcasing total revenue, revenue per month and year, revenue segmented by state, store, brand, and category.
