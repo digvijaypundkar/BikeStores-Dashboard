@@ -1,4 +1,4 @@
-# BikeStores-Dashboard
+# Data-Driven Insights: BikeStores Sales Evaluation
 Personal Project Summary: Executive Dashboard for BikeStores
 
 This data analytics project involved creating an interactive executive dashboard for BikeStores using Tableau, SQL, and Excel.
